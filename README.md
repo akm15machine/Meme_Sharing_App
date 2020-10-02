@@ -29,5 +29,10 @@ This project is about a meme sharing mobile app using which you can download or 
 The app currently has two themes!
 
 This is one of my first android applications and there surely must be sections that are contributable ;)
+## Features:
+> See Memes from Reddit
+> Share Memes to your family and Friends
+> Night Mode!
+### Made with Love using a custom Meme-Api deployed on Heroku , Volley and Glide.
 
 > Contributions and reviews are welcome :heart:
