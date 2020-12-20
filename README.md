@@ -39,5 +39,3 @@ This is one of my first android applications and there surely must be sections t
 ### Made with Love using a custom Meme-Api deployed on Heroku , Volley and Glide.
 
 > Contributions and reviews are welcome :heart:
-
-Hello, this is AKM, sample commit.
